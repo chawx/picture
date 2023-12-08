@@ -1,0 +1,1 @@
+# Linux共享文件在Mnt/hgfs

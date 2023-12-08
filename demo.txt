@@ -1,0 +1,7 @@
+git reset --hard "目录"
+git status(查看状态是否要提取)
+git clone https:
+git remote add origin https:
+git pull --rebase origin master(拉取远程)
+git comiit -m ""(提交名字)
+git push -u master(分支)
