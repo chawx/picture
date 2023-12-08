@@ -146,3 +146,12 @@ STFW(Search The Fucking Web)
 RTFSC(Reading The Fucking Source Code)
 
 阅读源码
+
+```shell
+error: remote origin already exists.
+```
+
+```shell
+git remote rm origin
+```
+
